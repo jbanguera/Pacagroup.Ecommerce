@@ -1,0 +1,13 @@
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.deps.json
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.dll
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.AssemblyInfoInputs.cache
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.AssemblyInfo.cs
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.pdb
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.dll
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.pdb
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.csprojAssemblyReference.cache
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.csproj.CopyComplete
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.dll
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.pdb

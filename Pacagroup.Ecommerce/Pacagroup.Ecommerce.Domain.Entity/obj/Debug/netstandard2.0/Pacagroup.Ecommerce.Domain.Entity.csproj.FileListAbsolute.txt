@@ -1,0 +1,8 @@
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.deps.json
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.AssemblyInfoInputs.cache
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.AssemblyInfo.cs
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.csprojAssemblyReference.cache

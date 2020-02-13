@@ -1,0 +1,11 @@
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Data\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Infraestructure.Data.deps.json
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Data\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Infraestructure.Data.dll
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infraestructure.Data.AssemblyInfoInputs.cache
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infraestructure.Data.AssemblyInfo.cs
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infraestructure.Data.csprojAssemblyReference.cache
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Data\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Infraestructure.Data.pdb
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Data\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Data\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infraestructure.Data.csproj.CopyComplete
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infraestructure.Data.dll
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Data\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infraestructure.Data.pdb

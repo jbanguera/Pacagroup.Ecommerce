@@ -1,0 +1,11 @@
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Infraestructure.Interface.deps.json
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Infraestructure.Interface.dll
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Infraestructure.Interface.pdb
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infraestructure.Interface.csprojAssemblyReference.cache
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infraestructure.Interface.AssemblyInfoInputs.cache
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infraestructure.Interface.AssemblyInfo.cs
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infraestructure.Interface.csproj.CopyComplete
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infraestructure.Interface.dll
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infraestructure.Interface.pdb

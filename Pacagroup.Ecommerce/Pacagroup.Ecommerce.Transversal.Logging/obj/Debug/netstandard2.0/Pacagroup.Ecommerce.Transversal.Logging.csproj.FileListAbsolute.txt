@@ -1,0 +1,11 @@
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Logging.deps.json
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Logging.dll
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Logging.AssemblyInfoInputs.cache
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Logging.AssemblyInfo.cs
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Logging.csproj.CopyComplete
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Logging.pdb
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Logging.csprojAssemblyReference.cache
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Logging.dll
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Logging.pdb

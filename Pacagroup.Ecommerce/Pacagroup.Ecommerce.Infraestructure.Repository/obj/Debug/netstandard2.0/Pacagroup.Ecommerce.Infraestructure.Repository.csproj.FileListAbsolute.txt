@@ -1,0 +1,15 @@
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Repository\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Repository\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Infraestructure.Interface.dll
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Repository\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Repository\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infraestructure.Repository.csprojAssemblyReference.cache
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Repository\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infraestructure.Repository.AssemblyInfoInputs.cache
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Repository\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infraestructure.Repository.AssemblyInfo.cs
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Repository\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Infraestructure.Repository.deps.json
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Repository\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Infraestructure.Repository.dll
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Repository\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Infraestructure.Repository.pdb
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Repository\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Repository\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Infraestructure.Interface.pdb
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Repository\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Repository\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infraestructure.Repository.csproj.CopyComplete
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Repository\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infraestructure.Repository.dll
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraestructure.Repository\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infraestructure.Repository.pdb

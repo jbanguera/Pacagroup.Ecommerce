@@ -1,0 +1,11 @@
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Interface.deps.json
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Interface.dll
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Interface.pdb
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Interface.csprojAssemblyReference.cache
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Interface.AssemblyInfoInputs.cache
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Interface.AssemblyInfo.cs
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Interface.csproj.CopyComplete
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Interface.dll
+C:\Users\JMarquinez\Pacagroup.Ecommerce\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Interface.pdb
